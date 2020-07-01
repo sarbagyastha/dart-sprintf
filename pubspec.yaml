@@ -4,6 +4,6 @@ author: Richard Eames <dartsprintf@naddiseo.ca>
 description: Dart implementation of sprintf
 homepage: https://github.com/Naddiseo/dart-sprintf
 environment:
-  sdk: '<3.0.0'
+  sdk: '>=2.8.0 <3.0.0'
 dev_dependencies:
   test: any
